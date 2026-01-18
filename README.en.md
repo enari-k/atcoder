@@ -37,7 +37,7 @@ Making automatically by tools for better coding and control.
 - **Language:** C# (.NET 8.0)
 - **Library:** [atcoder-library-csharp](https://github.com/Csharp-Solutions/atcoder-library-csharp) (ACL for C#)
 
-## 📂 ディレクトリ構造
+## 📂 Directory structure
 ```text
 └── ABCXXX/              # Contest's directory
     └── A/               # Problem's directory
