@@ -1,3 +1,5 @@
+Language: [日本語](README.ja.md) / [English](README.md)
+
 # AtCoder Solutions
 
 学生エンジニア **enari-K** による、AtCoderへの提出コードをアーカイブしているリポジトリです。
@@ -7,6 +9,10 @@
 [![Language](https://img.shields.io/badge/Language-C%23-green?style=for-the-badge&logo=c-sharp)](https://dotnet.microsoft.com/en-us/languages/csharp)
 
 ---
+
+![AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats/enari_K?theme=dark&show_icons=true)
+
+[![AtCoder Profile](https://img.shields.io/badge/AtCoder-Profile-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/enari_K)
 
 ## 📌 概要
 本リポジトリでは、主に以下のコンテスト形式の回答を管理しています。
