@@ -1,4 +1,4 @@
-Language: [日本語](README.ja.md) / [English](README.md)
+Language: [日本語](README.md) / [English](README.en.md)
 
 # AtCoder Solutions
 
